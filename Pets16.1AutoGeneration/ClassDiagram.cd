@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Pets16._1AutoGeneration.cardOfPet">
+    <Position X="0.5" Y="6.75" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAACQAACAUAABAACGAAAgCBAAIAIAAADAAAAAAAAA=</HashCode>
+      <FileName>cardOfPet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pets16._1AutoGeneration.mainMenu">
+    <Position X="7.25" Y="7" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAHQIAAAAAAA=</HashCode>
+      <FileName>mainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pets16._1AutoGeneration.registryOfPets">
+    <Position X="0.5" Y="0.5" Width="7" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAIACAEhAAAABCAKAACAAAAAIAgyBAFBAIAAAI=</HashCode>
+      <FileName>registryOfPets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pets16._1AutoGeneration.CardOfPetController">
+    <Position X="8.25" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAABAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAA=</HashCode>
+      <FileName>CardOfPetController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pets16._1AutoGeneration.Pet">
+    <Position X="16" Y="1.25" Width="11.5" />
+    <TypeIdentifier>
+      <HashCode>AAADBQAAIQAAgCKAAIACgCQAAgAIAAAAAAQIAAIACIA=</HashCode>
+      <FileName>Pet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pets16._1AutoGeneration.Category">
+    <Position X="26.75" Y="14" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAACACAAAgAgAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pets16._1AutoGeneration.Photo">
+    <Position X="16" Y="7.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAACAAAAAgAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Photo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pets16._1AutoGeneration.Size">
+    <Position X="19.75" Y="7.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAACAAAAAgAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Size.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pets16._1AutoGeneration.StandardVeterinaryActivity">
+    <Position X="22.25" Y="10.5" Width="10" />
+    <TypeIdentifier>
+      <HashCode>gAACAgAAAAAAAAEAIAAAAAQAAAAAAEAAAAAAAQCAAAA=</HashCode>
+      <FileName>StandardVeterinaryActivity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pets16._1AutoGeneration.DocumentOfVeterinaryActivityForPet">
+    <Position X="11.25" Y="10.25" Width="10.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAACAAAIAgAAAAAAAAAAkIAAABAAQCAAAA=</HashCode>
+      <FileName>DocumentOfVeterinaryActivityForPet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pets16._1AutoGeneration.VeterinaryActivity">
+    <Position X="11.25" Y="14" Width="9.5" />
+    <TypeIdentifier>
+      <HashCode>YIACBAAAAAAgCAAAAAgAAAAAAAAAAEABAAAAAAAAAAA=</HashCode>
+      <FileName>VeterinaryActivity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pets16._1AutoGeneration.Wool">
+    <Position X="21" Y="14" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAACAAAAAgAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pets16._1AutoGeneration.Gender">
+    <Position X="23.75" Y="14" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAACAAAAAgAAAQAAAAAAAAAAAAIAAAACAA=</HashCode>
+      <FileName>Gender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pets16._1AutoGeneration.connectionWithDB">
+    <Position X="33.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAABAAAABAAEAAAAQAAgAAAgAAAAAAAA=</HashCode>
+      <FileName>connectionWithDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pets16._1AutoGeneration.dbGender">
+    <Position X="33.25" Y="3.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAKAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>dbGender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pets16._1AutoGeneration.dbVeterinaryActivity">
+    <Position X="33.25" Y="5.25" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAABAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>dbVeterinaryActivity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pets16._1AutoGeneration.dbStandardVeterinaryActivity">
+    <Position X="33.25" Y="7.25" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAABAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>dbStandardVeterinaryActivity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pets16._1AutoGeneration.dbVaccination">
+    <Position X="33.25" Y="9.25" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>dbVaccination.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pets16._1AutoGeneration.dbCategory">
+    <Position X="33.25" Y="11.25" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>dbCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pets16._1AutoGeneration.dbSize">
+    <Position X="33.25" Y="13.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAABAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>dbSize.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pets16._1AutoGeneration.dbPhoto">
+    <Position X="33.25" Y="15.25" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>dbPhoto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pets16._1AutoGeneration.dbWool">
+    <Position X="33.25" Y="17.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAQAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>dbWool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pets16._1AutoGeneration.dbPet">
+    <Position X="33.25" Y="19.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgBAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>dbPet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pets16._1AutoGeneration.Vaccination">
+    <Position X="22.25" Y="7.5" Width="6.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAACAAAAAgAAAQAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Vaccination.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pets16._1AutoGeneration.RegistryOfPetsController">
+    <Position X="8.25" Y="2.75" Width="6.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAACEAACAAAAAAAAAA=</HashCode>
+      <FileName>RegistryOfPetsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
